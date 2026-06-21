@@ -89,7 +89,7 @@ input[type=text], select {
 
 input[type=submit] {
   width: 100%;
-  background-color: #4CAF50;
+  background-color: #000000;
   color: white;
   padding: 14px;
   margin: 8px 0;
@@ -99,7 +99,7 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color: #808080 ;
 }
 
 
@@ -119,3 +119,4 @@ input[type=submit]:hover {
     grid-column: span 2 / span 2;
     grid-column-start: 4;
 }
+
