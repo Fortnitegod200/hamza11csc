@@ -49,11 +49,11 @@ ul li a:hover {
 
 .container {
   display: flex;
-  background-color: white;
+  background-color: #f8f8f8;
 }
 
 .container div {
-  background-color: #f1f1f1;
+  background-color: ##f8f8f8;
   margin: 10px;
   padding: 200px;
   font-size: 24px;
